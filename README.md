@@ -1,6 +1,12 @@
 # AI 4 Africa Workshop Starter Repo
-Emmanuel
+<<<<<<< HEAD
+Emmanuel new message
+my name is innocentia 
+=======
 
+Emmanuel is weird
+
+>>>>>>> 8ae192ef6740e667eae63837b4976af7cd88801c
 <p align="center">
   <a href="https://github.com/AI4Africa-MBZUAI-ALA/github_tutorial/fork">
     <img src="https://img.shields.io/badge/Fork%20this%20repo-Start%20here-brightgreen?style=for-the-badge" alt="Fork this repo" />

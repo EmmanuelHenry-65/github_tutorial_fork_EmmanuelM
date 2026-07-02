@@ -1,7 +1,7 @@
 # AI 4 Africa Workshop Starter Repo
 Emmanuel
 
-good food  gckyjdyftjgdjtd here in ala
+good food  here in ala
 ddfd
 
 <p align="center">

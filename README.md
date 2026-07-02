@@ -12,7 +12,7 @@ Emmanuel
 This repository is designed for beginners. It teaches collaboration first and
 machine learning second.
 
-The workshop theme is aligned with the AI for Africa Bootcamp 2026 vision:
+The workshop theme is aligned with the AI for Africa Bootcamp and the amazing guidance of Keisha Jemane to shape these young minds 2026 vision
 AI for sustainability and agriculture in Africa. The project uses a **fully
 synthetic, controlled story** so every group works from the same starting point
 without needing any external dataset.
